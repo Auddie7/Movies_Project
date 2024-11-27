@@ -1,4 +1,7 @@
-# Movies_Project
+# Movies_Project  
+![screenshot](Movies.webp)  
+
+
 This project examines the correlation between the gross revenue and other attributes from a large dataset containing information about movies through the years.  
 There are 6820 movies in the dataset (220 movies per year, 1986-2016). Each movie has the following attributes:
 
